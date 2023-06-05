@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Gastronomía",
+    "description": "Preguntas relacionadas con cocina, recetas, ingredientes y tendencias culinarias."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos electrónicos, avances tecnológicos, aplicaciones y programación."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Moda",
+    "description": "Preguntas relacionadas con tendencias de moda, diseñadores, marcas y consejos de estilo."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Viajes",
+    "description": "Preguntas relacionadas con destinos turísticos, consejos de viaje, experiencias de aventura y recomendaciones de hospedaje."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Filosofía",
+    "description": "Preguntas relacionadas con temas filosóficos, corrientes de pensamiento, ética y metafísica."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Medio Ambiente",
+    "description": "Preguntas relacionadas con conservación ambiental, energías renovables, cambio climático y sostenibilidad."
   }
 ]
